@@ -49,3 +49,9 @@ p {
 .container {
     margin-top: 100px;
 }
+
+#vis1 {
+    width: 500px
+    height: auto;
+
+}
